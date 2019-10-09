@@ -1,0 +1,40 @@
+\documentclass[a4paper,notitlepage]{article}
+\usepackage{amsthm}
+\usepackage{listings}
+\lstset{language=Python}
+\lstset{basicstyle=\footnotesize}
+
+\begin{document}
+
+\author{Beatrice Napolitano}
+\title{Automated Reasoning for Social Choice Theory \\ Exercises }
+\date{LAMSADE - October 2019}
+\maketitle
+
+\section{Question 1}
+For n = 2 and m = 3, the number of different resolute voting rules that are strategyproof can be obtained by querying the length of the list $l\_ex1$ produced by the following:
+\begin{lstlisting}
+cnf_ex1 = ( cnfAtLeastOne() + cnfResolute() + cnfStrategyProof() )
+l_ex1 = list( itersolve( cnf_ex1 ) )
+\end{lstlisting}
+There are 17 rules satisfying these two axioms. If we analyze the elements of the list we are able to give a descriptions of such rules.
+
+\section{Question 2}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

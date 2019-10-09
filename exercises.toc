@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Setting}{2}
+\contentsline {section}{\numberline {2}Axioms (Criteria)}{2}
+\contentsline {subsection}{\numberline {2.1}Axioms I}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Anonymity}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Neutrality}{2}
+\contentsline {subsubsection}{\numberline {2.1.3}Nondictatoriality}{2}
+\contentsline {subsubsection}{\numberline {2.1.4}Nonimposition}{2}
+\contentsline {subsubsection}{\numberline {2.1.5}Unanimity}{2}
+\contentsline {subsubsection}{\numberline {2.1.6}Pareto Property}{2}
+\contentsline {subsubsection}{\numberline {2.1.7}Condorcet consistency}{2}
+\contentsline {subsubsection}{\numberline {2.1.8}Majority criterion}{3}
+\contentsline {subsubsection}{\numberline {2.1.9}Manipulability}{3}
+\contentsline {subsection}{\numberline {2.2}Axioms II}{3}
+\contentsline {subsubsection}{\numberline {2.2.1}Reinforcement}{3}
+\contentsline {subsubsection}{\numberline {2.2.2}Monotonicity}{3}
+\contentsline {subsection}{\numberline {2.3}Axioms III}{4}
+\contentsline {subsubsection}{\numberline {2.3.1}Strategy-Proofness}{4}
+\contentsline {subsubsection}{\numberline {2.3.2}Independence of Irrelevant Alternatives}{4}
+\contentsline {section}{\numberline {3}Voting Rules}{4}
+\contentsline {subsection}{\numberline {3.1}Majority}{4}
+\contentsline {subsection}{\numberline {3.2}Pairwise Majority}{4}
+\contentsline {subsection}{\numberline {3.3}Plurality}{4}
+\contentsline {subsection}{\numberline {3.4}Borda}{4}
+\contentsline {subsection}{\numberline {3.5}Copeland}{4}

@@ -1,0 +1,117 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.2.12)  4 OCT 2019 18:26
+entering extended mode
+**./exercises.tex
+(exercises.tex
+LaTeX2e <2018-04-01> patch level 5
+(/home/bea/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/home/bea/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/bea/.miktex/texmfs/install/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks14
+\thm@bodyfont=\toks15
+\thm@headfont=\toks16
+\thm@notefont=\toks17
+\thm@headpunct=\toks18
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks19
+)
+(/home/bea/.miktex/texmfs/install/tex/latex/listings/listings.sty
+(/home/bea/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks21
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+(/home/bea/.miktex/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/home/bea/.miktex/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+(/home/bea/.miktex/texmfs/install/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(exercises.aux)
+\openout1 = `exercises.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+\c@lstlisting=\count96
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
+ [1
+
+{/home/bea/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+(exercises.aux) ) 
+Here is how much of TeX's memory you used:
+ 2117 strings out of 494888
+ 26977 string characters out of 3178757
+ 276189 words of memory out of 3000000
+ 5795 multiletter control sequences out of 15000+200000
+ 7589 words of font info for 27 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 26i,6n,40p,213b,1190s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/bea/.miktex/texmfs/install/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></home/bea/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/
+cmbx8.pfb></home/bea/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb></home/bea/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></home/bea/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/home/bea/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></hom
+e/bea/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on exercises.pdf (1 page, 80974 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
